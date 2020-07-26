@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-server-pgsql:alpine-4.4.5
+FROM zabbix/zabbix-server-pgsql:alpine-5.0.2
 
 USER root
 
